@@ -1,6 +1,6 @@
 Bachelor's thesis on WebAuthn API at Ca'Foscari University, see <ins>DOCUMENTATION/REPORT.pdf</ins> for a project explanation, language used is italian.
 
-Abstract:
+**Abstract**:
 
 L'utilizzo di password testuali nei processi di registrazione e autenticazione di un utente presso un servizio web ha accompagnato internet nella sua esistenza. Negli anni '60 Fernando Corbató inventò questa tecnologia, da allora è stata il principale metodo con il quale si effettua l'identificazione di un utente attraverso un elaboratore. 
 Molte tecnologie alternative furono create, un esempio su tutte sono le password grafiche, queste però non sostituirono mai l'utilizzo della password testuale, anche a causa di un'usabilità minore percepita dall'utente utilizzatore.
