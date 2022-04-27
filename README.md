@@ -1,4 +1,4 @@
-#WebAuthn API
+# WebAuthn API
 
 Bachelor's thesis on WebAuthn API at Ca'Foscari University, see <ins>DOCUMENTATION/REPORT.pdf</ins> for a project explanation, language used is italian.
 
