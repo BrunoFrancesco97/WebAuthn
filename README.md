@@ -1,6 +1,6 @@
-# WebAuthn API analysis
+# WebAuthn API Analysis
 
-**Bachelor's thesis** on WebAuthn API at Ca'Foscari University, see <ins>DOCUMENTATION/REPORT.pdf</ins> for a project explanation, language used is <ins>italian</ins>.
+**Bachelor's thesis** on WebAuthn API at Ca'Foscari University, check the <a href="https://github.com/BrunoFrancesco97/WebAuthn/blob/main/DOCUMENTATION/REPORT.pdf">report</a> for a project explanation, language used is <ins>italian</ins>.
 
 ## Abstract
 
